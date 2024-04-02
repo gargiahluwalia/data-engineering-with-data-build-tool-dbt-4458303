@@ -1,0 +1,1 @@
+SELECT * FROM bronze_parking_violation_codes
